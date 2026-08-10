@@ -2,7 +2,7 @@ name: Yohananof price monitor
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every hour, on the hour (UTC)
+    - cron: "*/5 * * * *"  # every 5 minutes (GitHub's shortest supported interval) - answers questions fast; the promo diff-check piggybacks on the same run and only alerts on real changes
   workflow_dispatch: {}  # allows manual "Run workflow" from the Actions tab
 
 permissions:
