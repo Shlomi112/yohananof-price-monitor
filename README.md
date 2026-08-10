@@ -45,18 +45,25 @@ yet) — real alerts start from the second run onward.
 Without these set, the script still runs and prints the report to stdout
 (useful for testing, or for wiring into a different channel later).
 
-## Running on a schedule (Windows Task Scheduler)
+## Running on a schedule (GitHub Actions - no PC required)
 
-The feed itself updates roughly hourly, so checking every 30-60 minutes is
-plenty:
+This repo runs itself on GitHub's servers, on the hour, via
+`.github/workflows/monitor.yml` - your computer can be off. There's no
+local Task Scheduler entry (there was one during development; it was
+removed to avoid double alerts firing from two separate snapshots).
 
-```
-schtasks /create /tn "YohananofPriceMonitor" /tr "\"C:\Users\user\Desktop\yohananof-price-monitor\.venv\Scripts\python.exe\" -m yohananof_monitor.main" /sc minute /mo 60 /st 08:00
-```
+Setup (already done for this repo, kept here for reference / if you fork it):
+1. Push this repo to GitHub.
+2. `gh secret set TELEGRAM_BOT_TOKEN` and `gh secret set TELEGRAM_CHAT_ID`
+   (or set them under Settings → Secrets and variables → Actions).
+3. That's it - the workflow runs hourly on its own. Trigger it manually
+   any time from the repo's Actions tab ("Run workflow"), or:
+   `gh workflow run monitor.yml`.
 
-(Run from inside `yohananof-price-monitor`, or add
-`/sd` start-date flags as needed. Adjust the interval in Task Scheduler's
-GUI under Triggers if you'd rather not use `/mo`.)
+Because each run happens on a fresh GitHub-hosted VM, the promo snapshot
+(`data/*.json`) is committed back to the repo at the end of every run so
+the next run has something to diff against - that's why `data/` is
+tracked in git here instead of gitignored.
 
 ## Other branches or chains
 
