@@ -9,7 +9,7 @@ Meant to be run periodically (see README for Windows Task Scheduler setup).
 
 import sys
 
-from . import config, ftp_client, notify_telegram, parser, snapshot
+from . import config, emoji_map, ftp_client, notify_telegram, parser, snapshot
 
 # Windows consoles often default to a Hebrew/Latin codepage (e.g. cp1255) that
 # can't encode every character we print (Hebrew text mixed with emoji) -
@@ -31,8 +31,19 @@ def _format_promo_items(promo, price_map):
         name = _item_label(item["item_code"], price_map)
         price = item.get("discounted_price")
         price_str = f"{price:.2f}₪" if price is not None else "?"
-        lines.append(f"    - {name}: {price_str}")
+        emoji = emoji_map.pick_emoji(name)
+        lines.append(f"    - {emoji} {name}: {price_str}")
     return lines
+
+
+def _promo_headline_emoji(promo, price_map):
+    """Pick an emoji for a promo's headline: based on its first item's name
+    if we have one, otherwise a guess from the promo's own description."""
+    items = promo.get("items", [])
+    if items:
+        name = _item_label(items[0]["item_code"], price_map)
+        return emoji_map.pick_emoji(name)
+    return emoji_map.pick_emoji(promo.get("description", ""))
 
 
 def run(chain=None, store_id=None):
@@ -72,21 +83,24 @@ def run(chain=None, store_id=None):
     if new_promos:
         lines.append(f"✨ מבצעים חדשים ({len(new_promos)}):")
         for _, promo in new_promos:
-            lines.append(f"  • {promo['description']}")
+            emoji = _promo_headline_emoji(promo, price_map)
+            lines.append(f"  • {emoji} {promo['description']}")
             lines.extend(_format_promo_items(promo, price_map))
         lines.append("")
 
     if changed_promos:
         lines.append(f"\U0001f504 מבצעים שהשתנו ({len(changed_promos)}):")
         for _, _old, new in changed_promos:
-            lines.append(f"  • {new['description']}")
+            emoji = _promo_headline_emoji(new, price_map)
+            lines.append(f"  • {emoji} {new['description']}")
             lines.extend(_format_promo_items(new, price_map))
         lines.append("")
 
     if ended_promos:
         lines.append(f"❌ מבצעים שהסתיימו ({len(ended_promos)}):")
         for _, promo in ended_promos:
-            lines.append(f"  • {promo['description']}")
+            emoji = _promo_headline_emoji(promo, price_map)
+            lines.append(f"  • {emoji} {promo['description']}")
         lines.append("")
 
     message = "\n".join(lines).strip()
