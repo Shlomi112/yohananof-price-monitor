@@ -1,15 +1,16 @@
 """Fetch the latest promo/price dump for a configured store, diff it against
 the last run, and alert (Telegram, or stdout if not configured) on anything
-new, changed, or ended.
+new, changed, or ended. Also answers any pending Telegram questions
+("יש מבצע על X?" or a shopping list) using the same fetched data.
 
 Usage:
     python -m yohananof_monitor.main
-Meant to be run periodically (see README for Windows Task Scheduler setup).
+Meant to be run periodically (see README - runs hourly via GitHub Actions).
 """
 
 import sys
 
-from . import config, emoji_map, ftp_client, notify_telegram, parser, snapshot
+from . import config, emoji_map, ftp_client, notify_telegram, parser, responder, snapshot
 
 # Windows consoles often default to a Hebrew/Latin codepage (e.g. cp1255) that
 # can't encode every character we print (Hebrew text mixed with emoji) -
@@ -63,6 +64,10 @@ def run(chain=None, store_id=None):
 
     current_promos = parser.parse_promo_file(ftp_client.download(chain, promo_file))
     previous_promos = snapshot.load_previous(chain, store_id)
+
+    # Answer any pending "יש מבצע על X?" / shopping-list questions using the
+    # data we already fetched above - no extra download.
+    responder.check_and_reply(price_map, current_promos)
 
     new_promos, ended_promos, changed_promos = snapshot.diff_promos(
         previous_promos, current_promos
