@@ -35,3 +35,4 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "Update promo snapshot"
           git push
+
