@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+# data/ is intentionally tracked: GitHub Actions runners are ephemeral,
+# so the promo snapshot has to be committed back to the repo to persist
+# between scheduled runs (see .github/workflows/monitor.yml).

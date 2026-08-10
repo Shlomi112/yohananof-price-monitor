@@ -1,0 +1,37 @@
+name: Yohananof price monitor
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # every hour, on the hour (UTC)
+  workflow_dispatch: {}  # allows manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m yohananof_monitor.main
+
+      # The runner is a fresh VM every time; commit the updated promo
+      # snapshot back to the repo so the next run has something to diff against.
+      - name: Save snapshot
+        run: |
+          git config user.name "yohananof-price-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update promo snapshot"
+          git push
