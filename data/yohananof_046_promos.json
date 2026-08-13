@@ -720,18 +720,6 @@
       }
     ]
   },
-  "328832": {
-    "description": "צלחות קלאסיק גדול 10 יח",
-    "start": "2025-01-05T00:00:00.000",
-    "end": "2026-08-13T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290017470627",
-        "discounted_price": 11.9,
-        "discount_rate": 5.0
-      }
-    ]
-  },
   "329388": {
     "description": "סלמי/תה מעושן 300 גרם ב15",
     "start": "2025-01-08T00:00:00.000",
@@ -850,33 +838,6 @@
         "item_code": "7290018608630",
         "discounted_price": 25.0,
         "discount_rate": 3.0
-      }
-    ]
-  },
-  "333794": {
-    "description": "סט צלחות 20/24 חלקים",
-    "start": "2025-03-16T00:00:00.000",
-    "end": "2026-08-13T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290019251989",
-        "discounted_price": 24.9,
-        "discount_rate": 25.0
-      },
-      {
-        "item_code": "7290019251996",
-        "discounted_price": 24.9,
-        "discount_rate": 25.0
-      },
-      {
-        "item_code": "7290019375005",
-        "discounted_price": 24.9,
-        "discount_rate": 25.0
-      },
-      {
-        "item_code": "7290019375012",
-        "discounted_price": 24.9,
-        "discount_rate": 25.0
       }
     ]
   },
@@ -1733,11 +1694,6 @@
     "end": "2026-10-31T23:59:00.000",
     "items": [
       {
-        "item_code": "406176",
-        "discounted_price": 95.0,
-        "discount_rate": 9.0
-      },
-      {
         "item_code": "408156",
         "discounted_price": 95.0,
         "discount_rate": 9.0
@@ -1945,6 +1901,11 @@
     "items": [
       {
         "item_code": "7290119778140",
+        "discounted_price": 18.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290119778195",
         "discounted_price": 18.0,
         "discount_rate": null
       }
@@ -4578,6 +4539,11 @@
         "item_code": "8718951610583",
         "discounted_price": 20.0,
         "discount_rate": null
+      },
+      {
+        "item_code": "8718951819917",
+        "discounted_price": 20.0,
+        "discount_rate": null
       }
     ]
   },
@@ -4943,6 +4909,11 @@
     "start": "2026-07-05T00:00:00.000",
     "end": "2026-10-03T23:59:00.000",
     "items": [
+      {
+        "item_code": "3838824426198",
+        "discounted_price": 32.0,
+        "discount_rate": null
+      },
       {
         "item_code": "3838824426471",
         "discounted_price": 32.0,
@@ -5774,11 +5745,6 @@
       {
         "item_code": "193159123239",
         "discounted_price": 9.95,
-        "discount_rate": 50.0
-      },
-      {
-        "item_code": "7290111978777",
-        "discounted_price": 19.95,
         "discount_rate": 50.0
       },
       {
@@ -10870,6 +10836,11 @@
     "end": "2026-08-31T23:59:00.000",
     "items": [
       {
+        "item_code": "8595657303267",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      },
+      {
         "item_code": "8595657303328",
         "discounted_price": 30.0,
         "discount_rate": null
@@ -12188,6 +12159,11 @@
         "item_code": "7290015781305",
         "discounted_price": 80.0,
         "discount_rate": null
+      },
+      {
+        "item_code": "7290020285225",
+        "discounted_price": 80.0,
+        "discount_rate": null
       }
     ]
   },
@@ -13451,6 +13427,11 @@
         "discount_rate": null
       },
       {
+        "item_code": "7290015130295",
+        "discounted_price": 24.0,
+        "discount_rate": null
+      },
+      {
         "item_code": "7290015130325",
         "discounted_price": 24.0,
         "discount_rate": null
@@ -14215,6 +14196,11 @@
         "discount_rate": null
       },
       {
+        "item_code": "7290002371489",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
         "item_code": "7290002371533",
         "discounted_price": 22.0,
         "discount_rate": null
@@ -14360,23 +14346,6 @@
         "item_code": "835811005339",
         "discounted_price": 5.9,
         "discount_rate": 25.0
-      }
-    ]
-  },
-  "366683": {
-    "description": "בורקס במילוי תפו\"א/ גבינה מעדנות",
-    "start": "2026-08-02T00:00:00.000",
-    "end": "2026-08-22T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290000238173",
-        "discounted_price": 36.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290000238180",
-        "discounted_price": 36.0,
-        "discount_rate": null
       }
     ]
   },
@@ -16790,11 +16759,6 @@
     "start": "2026-08-02T00:00:00.000",
     "end": "2026-10-03T23:59:00.000",
     "items": [
-      {
-        "item_code": "7290000204086",
-        "discounted_price": 18.0,
-        "discount_rate": null
-      },
       {
         "item_code": "7290000204215",
         "discounted_price": 18.0,
@@ -20511,6 +20475,11 @@
         "discount_rate": null
       },
       {
+        "item_code": "8718951561328",
+        "discounted_price": 18.0,
+        "discount_rate": null
+      },
+      {
         "item_code": "8718951561922",
         "discounted_price": 18.0,
         "discount_rate": null
@@ -22000,7 +21969,7 @@
   "367450": {
     "description": "מרשמלו כרמית",
     "start": "2026-08-02T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
+    "end": "2026-08-15T23:59:00.000",
     "items": [
       {
         "item_code": "7290019644330",
@@ -23613,6 +23582,11 @@
     "items": [
       {
         "item_code": "7290000060088",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000070919",
         "discounted_price": 20.0,
         "discount_rate": null
       },
@@ -29208,11 +29182,6 @@
         "discount_rate": 4.0
       },
       {
-        "item_code": "7290114312479",
-        "discounted_price": 23.9,
-        "discount_rate": 4.0
-      },
-      {
         "item_code": "7290114312486",
         "discounted_price": 23.9,
         "discount_rate": 4.0
@@ -29575,6 +29544,11 @@
     "start": "2026-08-09T00:00:00.000",
     "end": "2026-08-15T23:59:00.000",
     "items": [
+      {
+        "item_code": "8006530259217",
+        "discounted_price": 80.0,
+        "discount_rate": null
+      },
       {
         "item_code": "8700216890946",
         "discounted_price": 80.0,
@@ -32975,6 +32949,11 @@
         "discount_rate": null
       },
       {
+        "item_code": "40232885518",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
         "item_code": "608614310463",
         "discounted_price": 20.0,
         "discount_rate": null
@@ -33206,6 +33185,18 @@
       }
     ]
   },
+  "368357": {
+    "description": "פיצה מרגריטה מאמאמיה 100% קמח כוסמין",
+    "start": "2026-08-10T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290020595003",
+        "discounted_price": 40.0,
+        "discount_rate": 23.0
+      }
+    ]
+  },
   "368364": {
     "description": "פיניש תוספים/נוזל הברקה/מלח למדיח",
     "start": "2026-08-09T00:00:00.000",
@@ -33427,6 +33418,11 @@
       },
       {
         "item_code": "7290112495280",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290116538679",
         "discounted_price": 38.0,
         "discount_rate": null
       }
@@ -34393,6 +34389,47 @@
         "item_code": "7290108356984",
         "discounted_price": 16.0,
         "discount_rate": null
+      }
+    ]
+  },
+  "368518": {
+    "description": "בצק עלים מעדנות",
+    "start": "2026-08-13T00:00:00.000",
+    "end": "2026-08-22T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000238029",
+        "discounted_price": 20.0,
+        "discount_rate": 54.0
+      }
+    ]
+  },
+  "368519": {
+    "description": "בורקס גבינה/תפוא מעדנות",
+    "start": "2026-08-13T00:00:00.000",
+    "end": "2026-08-22T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000238173",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000238180",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "368521": {
+    "description": "כריות קרצוף ניקול 3 יח",
+    "start": "2026-08-13T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000204086",
+        "discounted_price": 5.9,
+        "discount_rate": 40.0
       }
     ]
   }
