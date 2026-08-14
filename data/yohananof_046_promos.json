@@ -1362,6 +1362,11 @@
         "item_code": "7290019056850",
         "discounted_price": 12.0,
         "discount_rate": null
+      },
+      {
+        "item_code": "7290119771134",
+        "discounted_price": 12.0,
+        "discount_rate": null
       }
     ]
   },
@@ -3710,6 +3715,11 @@
         "discount_rate": null
       },
       {
+        "item_code": "7290013389138",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      },
+      {
         "item_code": "7290013389145",
         "discounted_price": 12.0,
         "discount_rate": null
@@ -4268,11 +4278,6 @@
       },
       {
         "item_code": "7290015381666",
-        "discounted_price": 100.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290015381871",
         "discounted_price": 100.0,
         "discount_rate": null
       },
@@ -6060,11 +6065,6 @@
         "discount_rate": null
       },
       {
-        "item_code": "4011800000349",
-        "discounted_price": 25.0,
-        "discount_rate": null
-      },
-      {
         "item_code": "4011800000738",
         "discounted_price": 25.0,
         "discount_rate": null
@@ -6675,11 +6675,6 @@
         "discount_rate": 50.0
       },
       {
-        "item_code": "7290111978944",
-        "discounted_price": 49.5,
-        "discount_rate": 50.0
-      },
-      {
         "item_code": "7290116780535",
         "discounted_price": 24.5,
         "discount_rate": 50.0
@@ -6717,11 +6712,6 @@
       {
         "item_code": "7290116786278",
         "discounted_price": 12.45,
-        "discount_rate": 50.0
-      },
-      {
-        "item_code": "7290116787121",
-        "discounted_price": 5.95,
         "discount_rate": 50.0
       },
       {
@@ -12678,11 +12668,6 @@
       },
       {
         "item_code": "7290117860496",
-        "discounted_price": 16.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290117860526",
         "discounted_price": 16.0,
         "discount_rate": null
       },
@@ -25256,11 +25241,6 @@
         "item_code": "7290119376582",
         "discounted_price": 25.0,
         "discount_rate": null
-      },
-      {
-        "item_code": "7290119382248",
-        "discounted_price": 25.0,
-        "discount_rate": null
       }
     ]
   },
@@ -25396,38 +25376,6 @@
         "item_code": "8690784516440",
         "discounted_price": 7.9,
         "discount_rate": 34.0
-      }
-    ]
-  },
-  "367685": {
-    "description": "זיתים ויסוצקי",
-    "start": "2026-08-04T00:00:00.000",
-    "end": "2026-08-14T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290011947781",
-        "discounted_price": 24.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290011947798",
-        "discounted_price": 24.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290019233183",
-        "discounted_price": 24.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290019621720",
-        "discounted_price": 24.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290019621737",
-        "discounted_price": 24.0,
-        "discount_rate": null
       }
     ]
   },
@@ -26283,18 +26231,6 @@
       }
     ]
   },
-  "367748": {
-    "description": "בירה גולדסטאר לא מסונן פחית",
-    "start": "2026-08-04T00:00:00.000",
-    "end": "2026-08-14T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290008464024",
-        "discounted_price": 14.0,
-        "discount_rate": 21.0
-      }
-    ]
-  },
   "367749": {
     "description": "סקושט ברייט ספוג קרצוף קשיח ירוק קצר",
     "start": "2026-08-04T00:00:00.000",
@@ -26431,23 +26367,6 @@
         "item_code": "7290012226991",
         "discounted_price": 25.9,
         "discount_rate": 13.0
-      }
-    ]
-  },
-  "367762": {
-    "description": "גולדסטאר/מכבי פחית",
-    "start": "2026-08-04T00:00:00.000",
-    "end": "2026-08-14T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290008464222",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290008464468",
-        "discounted_price": 20.0,
-        "discount_rate": null
       }
     ]
   },
@@ -28694,18 +28613,6 @@
         "item_code": "8850367992140",
         "discounted_price": 12.0,
         "discount_rate": 13.0
-      }
-    ]
-  },
-  "367918": {
-    "description": "תבניות אלומיניום",
-    "start": "2026-08-09T00:00:00.000",
-    "end": "2026-08-22T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290117030806",
-        "discounted_price": 20.0,
-        "discount_rate": null
       }
     ]
   },
@@ -32688,68 +32595,6 @@
         "item_code": "7290103705640",
         "discounted_price": 18.0,
         "discount_rate": 9.0
-      }
-    ]
-  },
-  "368278": {
-    "description": "פמפרס בייבי דריי",
-    "start": "2026-08-09T00:00:00.000",
-    "end": "2026-08-14T23:59:00.000",
-    "items": [
-      {
-        "item_code": "8006530264457",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8006530264464",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8006530264495",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8006530264525",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8006530264570",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8700216350310",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8700216350396",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8700216350402",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8700216350419",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8700216350433",
-        "discounted_price": 55.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8700216363228",
-        "discounted_price": 55.0,
-        "discount_rate": null
       }
     ]
   },
