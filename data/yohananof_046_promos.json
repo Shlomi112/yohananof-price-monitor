@@ -5232,6 +5232,63 @@
       }
     ]
   },
+  "363902": {
+    "description": "נעלי הוויאנס דגם טופ/סלים",
+    "start": "2026-06-11T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7890541601896",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7890732316394",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7890732316486",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7890732316509",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7891109486221",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7891109714478",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7891109714485",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7891109714492",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7893249567082",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7893249567105",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      }
+    ]
+  },
   "363927": {
     "description": "סקטור אפיקים 50% הנחה",
     "start": "2026-06-14T00:00:00.000",
@@ -5562,6 +5619,11 @@
       },
       {
         "item_code": "7290020790392",
+        "discounted_price": 35.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290020790408",
         "discounted_price": 35.0,
         "discount_rate": null
       },
@@ -6091,6 +6153,11 @@
       {
         "item_code": "7290116784960",
         "discounted_price": 17.45,
+        "discount_rate": 50.0
+      },
+      {
+        "item_code": "7290116787121",
+        "discounted_price": 5.95,
         "discount_rate": 50.0
       },
       {
@@ -6719,11 +6786,6 @@
       },
       {
         "item_code": "5010677554398",
-        "discounted_price": 25.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7610113030578",
         "discounted_price": 25.0,
         "discount_rate": null
       },
@@ -9298,7 +9360,7 @@
   "366167": {
     "description": "דטול תרסיס לניקוי 750 מ\"ל",
     "start": "2026-08-02T00:00:00.000",
-    "end": "2026-10-31T23:59:00.000",
+    "end": "2026-10-03T23:59:00.000",
     "items": [
       {
         "item_code": "7290112000408",
@@ -9332,7 +9394,7 @@
   "366170": {
     "description": "וניש טריגר מסיר כתמים פרימיום",
     "start": "2026-08-02T00:00:00.000",
-    "end": "2026-10-31T23:59:00.000",
+    "end": "2026-10-03T23:59:00.000",
     "items": [
       {
         "item_code": "7290112006493",
@@ -9356,7 +9418,7 @@
   "366172": {
     "description": "ויט רצועות שעווה",
     "start": "2026-08-02T00:00:00.000",
-    "end": "2026-10-31T23:59:00.000",
+    "end": "2026-10-03T23:59:00.000",
     "items": [
       {
         "item_code": "4053700292455",
@@ -12189,11 +12251,6 @@
         "item_code": "365268",
         "discounted_price": 13.0,
         "discount_rate": 18.0
-      },
-      {
-        "item_code": "7290003072118",
-        "discounted_price": 13.0,
-        "discount_rate": 28.0
       }
     ]
   },
@@ -15052,6 +15109,11 @@
       },
       {
         "item_code": "7613036984478",
+        "discounted_price": 34.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7613287186843",
         "discounted_price": 34.0,
         "discount_rate": null
       },
@@ -18716,11 +18778,6 @@
         "item_code": "7290017031477",
         "discounted_price": 36.0,
         "discount_rate": null
-      },
-      {
-        "item_code": "7290113560352",
-        "discounted_price": 36.0,
-        "discount_rate": null
       }
     ]
   },
@@ -19434,11 +19491,6 @@
       },
       {
         "item_code": "7290115208566",
-        "discounted_price": 18.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290115208597",
         "discounted_price": 18.0,
         "discount_rate": null
       },
@@ -22323,6 +22375,11 @@
         "item_code": "7290117033616",
         "discounted_price": 40.0,
         "discount_rate": null
+      },
+      {
+        "item_code": "7290117033623",
+        "discounted_price": 40.0,
+        "discount_rate": null
       }
     ]
   },
@@ -24419,7 +24476,7 @@
   "368173": {
     "description": "עוגות אישיות מגולגלות",
     "start": "2026-08-06T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
+    "end": "2026-08-29T23:59:00.000",
     "items": [
       {
         "item_code": "7290018893081",
@@ -27382,11 +27439,6 @@
       },
       {
         "item_code": "8700216418416",
-        "discounted_price": 32.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8700216418447",
         "discounted_price": 32.0,
         "discount_rate": null
       },
@@ -32862,6 +32914,11 @@
         "discount_rate": 50.0
       },
       {
+        "item_code": "8850006960561",
+        "discounted_price": 9.9,
+        "discount_rate": 50.0
+      },
+      {
         "item_code": "0000000000000",
         "discounted_price": null,
         "discount_rate": null
@@ -33794,6 +33851,18 @@
         "item_code": "7290117267943",
         "discounted_price": 11.0,
         "discount_rate": 25.0
+      }
+    ]
+  },
+  "369273": {
+    "description": "מיני דובשניות אדל 300 גרם",
+    "start": "2026-08-26T00:00:00.000",
+    "end": "2026-09-12T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290119043194",
+        "discounted_price": 16.0,
+        "discount_rate": 19.0
       }
     ]
   },
@@ -37320,18 +37389,6 @@
       }
     ]
   },
-  "369565": {
-    "description": "קנה ב500 ש\"ח קבל שמשיה יוחננוף מתנה",
-    "start": "2026-08-26T00:00:00.000",
-    "end": "2026-09-04T23:59:00.000",
-    "items": [
-      {
-        "item_code": "0000000000000",
-        "discounted_price": null,
-        "discount_rate": null
-      }
-    ]
-  },
   "369572": {
     "description": "דאודורנט ספריי לאישה מס' 1 150 מ\"ל",
     "start": "2026-08-26T00:00:00.000",
@@ -37399,6 +37456,33 @@
         "item_code": "7290020030085",
         "discounted_price": 7.9,
         "discount_rate": 34.0
+      }
+    ]
+  },
+  "369597": {
+    "description": "תבניות אלומיניום יוחננוף",
+    "start": "2026-08-27T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290020627322",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290020627339",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290020627346",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290020627360",
+        "discounted_price": 20.0,
+        "discount_rate": null
       }
     ]
   },
