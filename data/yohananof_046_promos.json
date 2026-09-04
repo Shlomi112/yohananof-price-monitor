@@ -2704,11 +2704,6 @@
         "item_code": "4052197000925",
         "discounted_price": 20.0,
         "discount_rate": null
-      },
-      {
-        "item_code": "4052197003254",
-        "discounted_price": 20.0,
-        "discount_rate": null
       }
     ]
   },
@@ -5067,11 +5062,6 @@
         "item_code": "7290121393485",
         "discounted_price": 14.95,
         "discount_rate": 50.0
-      },
-      {
-        "item_code": "7290121394093",
-        "discounted_price": 94.95,
-        "discount_rate": 50.0
       }
     ]
   },
@@ -5638,11 +5628,6 @@
         "discount_rate": 50.0
       },
       {
-        "item_code": "7290121390507",
-        "discounted_price": 24.95,
-        "discount_rate": 50.0
-      },
-      {
         "item_code": "7290121391665",
         "discounted_price": 19.95,
         "discount_rate": 50.0
@@ -5680,6 +5665,11 @@
       {
         "item_code": "7290121392723",
         "discounted_price": 7.45,
+        "discount_rate": 50.0
+      },
+      {
+        "item_code": "7290121392976",
+        "discounted_price": 24.95,
         "discount_rate": 50.0
       },
       {
@@ -9397,11 +9387,6 @@
         "item_code": "7290110322038",
         "discounted_price": 18.0,
         "discount_rate": null
-      },
-      {
-        "item_code": "7290116936079",
-        "discounted_price": 18.0,
-        "discount_rate": null
       }
     ]
   },
@@ -10123,11 +10108,6 @@
       },
       {
         "item_code": "7290113560550",
-        "discounted_price": 25.9,
-        "discount_rate": 13.0
-      },
-      {
-        "item_code": "7290113560567",
         "discounted_price": 25.9,
         "discount_rate": 13.0
       },
@@ -17204,11 +17184,6 @@
       },
       {
         "item_code": "7290118427445",
-        "discounted_price": 18.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290122781434",
         "discounted_price": 18.0,
         "discount_rate": null
       }
@@ -27530,18 +27505,6 @@
       }
     ]
   },
-  "368952": {
-    "description": "רוגלך ירושלמי",
-    "start": "2026-08-19T00:00:00.000",
-    "end": "2026-12-31T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290020790934",
-        "discounted_price": 40.0,
-        "discount_rate": null
-      }
-    ]
-  },
   "368953": {
     "description": "תירס גמדי וילי פוד",
     "start": "2026-08-19T00:00:00.000",
@@ -28539,11 +28502,6 @@
         "discount_rate": null
       },
       {
-        "item_code": "7290116536989",
-        "discounted_price": 15.0,
-        "discount_rate": null
-      },
-      {
         "item_code": "96130339",
         "discounted_price": 15.0,
         "discount_rate": null
@@ -28833,6 +28791,11 @@
     "items": [
       {
         "item_code": "7290112005502",
+        "discounted_price": 29.9,
+        "discount_rate": 25.0
+      },
+      {
+        "item_code": "7290112005519",
         "discounted_price": 29.9,
         "discount_rate": 25.0
       },
@@ -31149,11 +31112,6 @@
       },
       {
         "item_code": "7290118422723",
-        "discounted_price": 14.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290122781786",
         "discounted_price": 14.0,
         "discount_rate": null
       }
@@ -35977,23 +35935,6 @@
         "item_code": "7290005591761",
         "discounted_price": 18.9,
         "discount_rate": 14.0
-      }
-    ]
-  },
-  "369719": {
-    "description": "דבש יד מרדכי 350 גרם",
-    "start": "2026-08-30T00:00:00.000",
-    "end": "2026-09-04T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290002130567",
-        "discounted_price": 12.5,
-        "discount_rate": 26.0
-      },
-      {
-        "item_code": "7290119384662",
-        "discounted_price": 12.5,
-        "discount_rate": 26.0
       }
     ]
   },
