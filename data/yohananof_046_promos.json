@@ -35,18 +35,6 @@
       }
     ]
   },
-  "129466": {
-    "description": "פילה מדומה מעובד מופשר 59.90 רשתי",
-    "start": "2022-11-07T00:00:00.000",
-    "end": "2026-09-05T23:59:00.000",
-    "items": [
-      {
-        "item_code": "402062",
-        "discounted_price": 59.9,
-        "discount_rate": 29.0
-      }
-    ]
-  },
   "130486": {
     "description": "גולש עגל מעובד מופשר 2קג ב120-רשתי",
     "start": "2022-12-08T00:00:00.000",
@@ -8497,11 +8485,6 @@
     "end": "2026-10-03T23:59:00.000",
     "items": [
       {
-        "item_code": "4006000086705",
-        "discounted_price": 19.9,
-        "discount_rate": 20.0
-      },
-      {
         "item_code": "4006000086729",
         "discounted_price": 19.9,
         "discount_rate": 20.0
@@ -9157,11 +9140,6 @@
     "items": [
       {
         "item_code": "7290017289588",
-        "discounted_price": 120.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290017289595",
         "discounted_price": 120.0,
         "discount_rate": null
       },
@@ -17051,11 +17029,6 @@
         "discount_rate": null
       },
       {
-        "item_code": "7290004129118",
-        "discounted_price": 21.0,
-        "discount_rate": null
-      },
-      {
         "item_code": "7290004129156",
         "discounted_price": 21.0,
         "discount_rate": null
@@ -21239,18 +21212,6 @@
         "item_code": "4013162038282",
         "discounted_price": 8.9,
         "discount_rate": 36.0
-      }
-    ]
-  },
-  "368159": {
-    "description": "נקניקיות עוף יחיעם 50% הנחה עד 6 יח",
-    "start": "2026-08-23T00:00:00.000",
-    "end": "2026-09-05T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290019138112",
-        "discounted_price": 5.9,
-        "discount_rate": 50.0
       }
     ]
   },
@@ -34817,11 +34778,6 @@
         "discount_rate": 50.0
       },
       {
-        "item_code": "7290107444170",
-        "discounted_price": 14.95,
-        "discount_rate": 50.0
-      },
-      {
         "item_code": "7290115068818",
         "discounted_price": 4.95,
         "discount_rate": 50.0
@@ -37319,18 +37275,6 @@
       }
     ]
   },
-  "369881": {
-    "description": "שזיף אדום 8.90 רשתי",
-    "start": "2026-09-02T00:00:00.000",
-    "end": "2026-09-05T23:59:00.000",
-    "items": [
-      {
-        "item_code": "777",
-        "discounted_price": 8.9,
-        "discount_rate": 25.0
-      }
-    ]
-  },
   "369883": {
     "description": "גרנה פדנו משולש 200 גרם",
     "start": "2026-09-01T00:00:00.000",
@@ -38005,6 +37949,18 @@
         "item_code": "7290002703785",
         "discounted_price": 14.9,
         "discount_rate": 21.0
+      }
+    ]
+  },
+  "370016": {
+    "description": "קציצות דג לבישול 750 גרם",
+    "start": "2026-09-06T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290002757511",
+        "discounted_price": 55.0,
+        "discount_rate": 1.0
       }
     ]
   },
