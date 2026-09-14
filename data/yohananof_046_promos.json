@@ -3175,7 +3175,7 @@
   "360161": {
     "description": "סמירנוף אייס פחית",
     "start": "2026-05-03T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
+    "end": "2026-10-31T23:59:00.000",
     "items": [
       {
         "item_code": "5410316959810",
@@ -3187,7 +3187,7 @@
   "360165": {
     "description": "סומברסי",
     "start": "2026-05-03T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
+    "end": "2026-10-31T23:59:00.000",
     "items": [
       {
         "item_code": "3858887585205",
@@ -3469,6 +3469,28 @@
       }
     ]
   },
+  "360895": {
+    "description": "כפרית/סלמי טירת צבי 300 גרם ב13 שלישי",
+    "start": "2026-05-05T00:00:00.000",
+    "end": "2026-12-31T23:59:00.000",
+    "items": [
+      {
+        "item_code": "363486",
+        "discounted_price": 13.0,
+        "discount_rate": 28.0
+      },
+      {
+        "item_code": "364100",
+        "discounted_price": 13.0,
+        "discount_rate": 28.0
+      },
+      {
+        "item_code": "365268",
+        "discounted_price": 13.0,
+        "discount_rate": 18.0
+      }
+    ]
+  },
   "361050": {
     "description": "רוטב עגבניות פרי ניר 260 גרם",
     "start": "2026-05-31T00:00:00.000",
@@ -3536,18 +3558,6 @@
         "item_code": "7290000146997",
         "discounted_price": 16.0,
         "discount_rate": null
-      }
-    ]
-  },
-  "361365": {
-    "description": "מוסר ים טרי 89.90 רשתי",
-    "start": "2026-05-12T00:00:00.000",
-    "end": "2026-10-31T23:59:00.000",
-    "items": [
-      {
-        "item_code": "501499",
-        "discounted_price": 89.9,
-        "discount_rate": 18.0
       }
     ]
   },
@@ -4208,23 +4218,6 @@
       {
         "item_code": "7290019870906",
         "discounted_price": 12.0,
-        "discount_rate": null
-      }
-    ]
-  },
-  "363036": {
-    "description": "רסק עגבניות פרי ניר 100 גרם",
-    "start": "2026-07-05T00:00:00.000",
-    "end": "2026-12-31T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290002019794",
-        "discounted_price": 15.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290016087604",
-        "discounted_price": 15.0,
         "discount_rate": null
       }
     ]
@@ -15579,6 +15572,11 @@
         "discount_rate": null
       },
       {
+        "item_code": "76840100125",
+        "discounted_price": 40.0,
+        "discount_rate": null
+      },
+      {
         "item_code": "76840100156",
         "discounted_price": 40.0,
         "discount_rate": null
@@ -17821,10 +17819,15 @@
     ]
   },
   "367770": {
-    "description": "גומי יוגטה",
+    "description": "גומי/שטיחים יוגטה",
     "start": "2026-08-04T00:00:00.000",
     "end": "2026-10-03T23:59:00.000",
     "items": [
+      {
+        "item_code": "7290111356353",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
       {
         "item_code": "7290111357299",
         "discounted_price": 20.0,
@@ -17847,6 +17850,11 @@
       },
       {
         "item_code": "7290111357336",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111357367",
         "discounted_price": 20.0,
         "discount_rate": null
       },
@@ -21607,18 +21615,6 @@
       }
     ]
   },
-  "368397": {
-    "description": "KH7 מסיר שומנים סופר קלינר",
-    "start": "2026-09-14T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "8420822135001",
-        "discounted_price": 16.9,
-        "discount_rate": 11.0
-      }
-    ]
-  },
   "368401": {
     "description": "ג'וני ווקר בלו לייבל 750 מ\"ל",
     "start": "2026-08-10T00:00:00.000",
@@ -21828,23 +21824,6 @@
         "item_code": "7290100680711",
         "discounted_price": 13.0,
         "discount_rate": 27.0
-      }
-    ]
-  },
-  "368460": {
-    "description": "בלאק לייבל עד 3 יח",
-    "start": "2026-08-10T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "5000267023601",
-        "discounted_price": 114.9,
-        "discount_rate": 18.0
-      },
-      {
-        "item_code": "5000267125046",
-        "discounted_price": 114.9,
-        "discount_rate": 18.0
       }
     ]
   },
@@ -22629,33 +22608,6 @@
       }
     ]
   },
-  "368575": {
-    "description": "קולגייט סנסטיב פרו ריליף 75 מ\"ל",
-    "start": "2026-09-14T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7891024123492",
-        "discounted_price": 16.9,
-        "discount_rate": 15.0
-      },
-      {
-        "item_code": "7891024124253",
-        "discounted_price": 16.9,
-        "discount_rate": 15.0
-      },
-      {
-        "item_code": "8718951634077",
-        "discounted_price": 16.9,
-        "discount_rate": 15.0
-      },
-      {
-        "item_code": "8718951635012",
-        "discounted_price": 16.9,
-        "discount_rate": 15.0
-      }
-    ]
-  },
   "368576": {
     "description": "שוופס מוגז פירות 1.5 ליטר",
     "start": "2026-08-16T00:00:00.000",
@@ -23050,28 +23002,6 @@
       {
         "item_code": "70970475375",
         "discounted_price": 12.0,
-        "discount_rate": null
-      }
-    ]
-  },
-  "368663": {
-    "description": "כפפות אלוורה סנו סושי",
-    "start": "2026-09-14T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290010883356",
-        "discounted_price": 16.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290010883363",
-        "discounted_price": 16.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290010883370",
-        "discounted_price": 16.0,
         "discount_rate": null
       }
     ]
@@ -25218,11 +25148,6 @@
         "discount_rate": null
       },
       {
-        "item_code": "7290019635376",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
         "item_code": "7290019635383",
         "discounted_price": 26.0,
         "discount_rate": null
@@ -25567,20 +25492,10 @@
     ]
   },
   "368913": {
-    "description": "טובורג/קרלסברג שישייה",
+    "description": "קרלסברג שישייה",
     "start": "2026-09-14T00:00:00.000",
     "end": "2026-10-03T23:59:00.000",
     "items": [
-      {
-        "item_code": "7290001594803",
-        "discounted_price": 35.9,
-        "discount_rate": -3.0
-      },
-      {
-        "item_code": "7290001594858",
-        "discounted_price": 35.9,
-        "discount_rate": -3.0
-      },
       {
         "item_code": "7290001594865",
         "discounted_price": 35.9,
@@ -26089,43 +26004,6 @@
         "item_code": "8700216965705",
         "discounted_price": 29.9,
         "discount_rate": 25.0
-      }
-    ]
-  },
-  "368975": {
-    "description": "פילה אמנון עם עור 11.90",
-    "start": "2026-09-14T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "469890",
-        "discounted_price": 11.9,
-        "discount_rate": 40.0
-      },
-      {
-        "item_code": "7290008469890",
-        "discounted_price": 11.9,
-        "discount_rate": 40.0
-      },
-      {
-        "item_code": "7290008611350",
-        "discounted_price": 11.9,
-        "discount_rate": 40.0
-      },
-      {
-        "item_code": "7290008835961",
-        "discounted_price": 11.9,
-        "discount_rate": 40.0
-      },
-      {
-        "item_code": "7290012982873",
-        "discounted_price": 11.9,
-        "discount_rate": 40.0
-      },
-      {
-        "item_code": "8469890",
-        "discounted_price": 11.9,
-        "discount_rate": 40.0
       }
     ]
   },
@@ -26817,6 +26695,23 @@
       }
     ]
   },
+  "369059": {
+    "description": "ספריי להסרת כתמים וניש",
+    "start": "2026-08-23T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290101864127",
+        "discounted_price": 9.9,
+        "discount_rate": 48.0
+      },
+      {
+        "item_code": "7290112004413",
+        "discounted_price": 9.9,
+        "discount_rate": 48.0
+      }
+    ]
+  },
   "369061": {
     "description": "פיניש למדיח אולטימייט 55 יח",
     "start": "2026-08-23T00:00:00.000",
@@ -27109,11 +27004,6 @@
       },
       {
         "item_code": "7290116533117",
-        "discounted_price": 18.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290116534381",
         "discounted_price": 18.0,
         "discount_rate": null
       }
@@ -27579,18 +27469,6 @@
         "item_code": "5711953148347",
         "discounted_price": 18.9,
         "discount_rate": 21.0
-      }
-    ]
-  },
-  "369193": {
-    "description": "קטשופ היינץ 700 גרם",
-    "start": "2026-09-14T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "8715700419732",
-        "discounted_price": 12.9,
-        "discount_rate": 13.0
       }
     ]
   },
@@ -28468,28 +28346,6 @@
         "item_code": "7290000104676",
         "discounted_price": 9.9,
         "discount_rate": 41.0
-      }
-    ]
-  },
-  "369343": {
-    "description": "מגבוני האגיס רביעייה",
-    "start": "2026-09-14T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290000195537",
-        "discounted_price": 32.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290000195773",
-        "discounted_price": 32.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290111344206",
-        "discounted_price": 32.0,
-        "discount_rate": null
       }
     ]
   },
@@ -30163,11 +30019,6 @@
         "discount_rate": 13.0
       },
       {
-        "item_code": "7290011133368",
-        "discounted_price": 27.9,
-        "discount_rate": 13.0
-      },
-      {
         "item_code": "7290011133375",
         "discounted_price": 27.9,
         "discount_rate": 13.0
@@ -30924,6 +30775,11 @@
     "items": [
       {
         "item_code": "7290006739445",
+        "discounted_price": 40.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290109581774",
         "discounted_price": 40.0,
         "discount_rate": null
       }
@@ -31827,23 +31683,6 @@
       }
     ]
   },
-  "369608": {
-    "description": "מיץ תפוזים/מיץ תפוזים וגזר פרימור",
-    "start": "2026-08-27T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290000525969",
-        "discounted_price": 22.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290018925867",
-        "discounted_price": 22.0,
-        "discount_rate": null
-      }
-    ]
-  },
   "369611": {
     "description": "טחינה אחוה 500 גרם",
     "start": "2026-08-30T00:00:00.000",
@@ -32718,78 +32557,6 @@
       }
     ]
   },
-  "369794": {
-    "description": "בדין 4 ליטר עד 4 יח מעל 75",
-    "start": "2026-09-14T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290000111117",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290000129785",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290000339566",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290000342832",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290000342856",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290008330107",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290100241707",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290107641104",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290107648271",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290107648288",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290116530901",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290116534718",
-        "discounted_price": 26.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "0000000000000",
-        "discounted_price": null,
-        "discount_rate": null
-      }
-    ]
-  },
   "369799": {
     "description": "שמפו/מרכך דאב עד 3 יח מעל 75",
     "start": "2026-08-31T00:00:00.000",
@@ -32819,43 +32586,6 @@
         "item_code": "8712561571388",
         "discounted_price": 7.9,
         "discount_rate": 50.0
-      },
-      {
-        "item_code": "0000000000000",
-        "discounted_price": null,
-        "discount_rate": null
-      }
-    ]
-  },
-  "369801": {
-    "description": "פילה אמנון קפוא ללא עור 12.90עד3ק מעל99",
-    "start": "2026-08-31T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290001286937",
-        "discounted_price": 12.9,
-        "discount_rate": 57.0
-      },
-      {
-        "item_code": "7290003893843",
-        "discounted_price": 12.9,
-        "discount_rate": 57.0
-      },
-      {
-        "item_code": "7290004768294",
-        "discounted_price": 12.9,
-        "discount_rate": 57.0
-      },
-      {
-        "item_code": "7290008611374",
-        "discounted_price": 12.9,
-        "discount_rate": 57.0
-      },
-      {
-        "item_code": "7290113621558",
-        "discounted_price": 12.9,
-        "discount_rate": 57.0
       },
       {
         "item_code": "0000000000000",
@@ -33946,6 +33676,11 @@
     "end": "2026-10-03T23:59:00.000",
     "items": [
       {
+        "item_code": "7290020498410",
+        "discounted_price": 19.9,
+        "discount_rate": 20.0
+      },
+      {
         "item_code": "7290117268735",
         "discounted_price": 19.9,
         "discount_rate": 20.0
@@ -35030,53 +34765,6 @@
       }
     ]
   },
-  "370141": {
-    "description": "אוכמניות 2ב20 רשתי",
-    "start": "2026-09-07T00:00:00.000",
-    "end": "2026-09-14T23:59:00.000",
-    "items": [
-      {
-        "item_code": "257",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "40232885518",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "608614310463",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7750478150020",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7754171001153",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7759152000866",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8437020566131",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "8447029000031",
-        "discounted_price": 20.0,
-        "discount_rate": null
-      }
-    ]
-  },
   "370150": {
     "description": "קבוקים במשקל",
     "start": "2026-09-07T00:00:00.000",
@@ -35433,11 +35121,6 @@
     "start": "2026-09-07T00:00:00.000",
     "end": "2026-10-03T23:59:00.000",
     "items": [
-      {
-        "item_code": "7290019964018",
-        "discounted_price": 33.0,
-        "discount_rate": null
-      },
       {
         "item_code": "7290019964063",
         "discounted_price": 33.0,
@@ -35846,23 +35529,6 @@
       }
     ]
   },
-  "370212": {
-    "description": "ספריי להסרת כתמים וניש",
-    "start": "2026-09-14T00:00:00.000",
-    "end": "2026-10-03T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290101864127",
-        "discounted_price": 14.9,
-        "discount_rate": 21.0
-      },
-      {
-        "item_code": "7290112004413",
-        "discounted_price": 14.9,
-        "discount_rate": 21.0
-      }
-    ]
-  },
   "370218": {
     "description": "האגיס פרידום דריי/לילה עד 3 יח מעל75",
     "start": "2026-09-14T00:00:00.000",
@@ -36161,38 +35827,6 @@
       }
     ]
   },
-  "370253": {
-    "description": "תבלינים 3ב12 רשתי",
-    "start": "2026-09-09T00:00:00.000",
-    "end": "2026-09-14T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290010051021",
-        "discounted_price": 12.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290010051113",
-        "discounted_price": 12.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290010051120",
-        "discounted_price": 12.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290010051250",
-        "discounted_price": 12.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290010051687",
-        "discounted_price": 12.0,
-        "discount_rate": null
-      }
-    ]
-  },
   "370256": {
     "description": "פטריות מלך היער/שינוקי/שימאגי 2ב15 רשתי",
     "start": "2026-09-09T00:00:00.000",
@@ -36233,50 +35867,6 @@
       {
         "item_code": "7290020174468",
         "discounted_price": 14.9,
-        "discount_rate": null
-      }
-    ]
-  },
-  "370258": {
-    "description": "עלי בייבי/חסה/לקטים/אורגולה 2ב22 רשתי",
-    "start": "2026-09-09T00:00:00.000",
-    "end": "2026-09-15T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290008644235",
-        "discounted_price": 22.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290104065934",
-        "discounted_price": 22.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290106723689",
-        "discounted_price": 22.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290107933155",
-        "discounted_price": 22.0,
-        "discount_rate": null
-      },
-      {
-        "item_code": "7290110558925",
-        "discounted_price": 22.0,
-        "discount_rate": null
-      }
-    ]
-  },
-  "370259": {
-    "description": "לבבות חסה 2ב16 רשתי",
-    "start": "2026-09-09T00:00:00.000",
-    "end": "2026-09-14T23:59:00.000",
-    "items": [
-      {
-        "item_code": "7290010051373",
-        "discounted_price": 16.0,
         "discount_rate": null
       }
     ]
@@ -36468,6 +36058,72 @@
       }
     ]
   },
+  "370285": {
+    "description": "ברמונדי טרי 2ק ב120עד4ק מעל99רשתי",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "501697",
+        "discounted_price": 114.0,
+        "discount_rate": 8.0
+      },
+      {
+        "item_code": "0000000000000",
+        "discounted_price": null,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370286": {
+    "description": "קוקטייל/פרגית לתנור 3ק ב130עד3ק מעל99רשת",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "40035",
+        "discounted_price": 43.33,
+        "discount_rate": 13.0
+      },
+      {
+        "item_code": "405568",
+        "discounted_price": 43.33,
+        "discount_rate": 13.0
+      },
+      {
+        "item_code": "0000000000000",
+        "discounted_price": null,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370287": {
+    "description": "אסאדו טרי ללא עצם 2ק ב120עד4ק מעל99רשתי",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "405780",
+        "discounted_price": 60.0,
+        "discount_rate": 14.0
+      },
+      {
+        "item_code": "407128",
+        "discounted_price": 60.0,
+        "discount_rate": 14.0
+      },
+      {
+        "item_code": "410036",
+        "discounted_price": 60.0,
+        "discount_rate": 14.0
+      },
+      {
+        "item_code": "0000000000000",
+        "discounted_price": null,
+        "discount_rate": null
+      }
+    ]
+  },
   "370288": {
     "description": "משקה אלפרו 1 ליטר",
     "start": "2026-09-10T00:00:00.000",
@@ -36525,6 +36181,23 @@
       }
     ]
   },
+  "370289": {
+    "description": "סטייק עין טרי 89.90עד3ק מעל99 רשתי",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "401324",
+        "discounted_price": 89.9,
+        "discount_rate": 36.0
+      },
+      {
+        "item_code": "0000000000000",
+        "discounted_price": null,
+        "discount_rate": null
+      }
+    ]
+  },
   "370290": {
     "description": "משקה יוגורט/איירן יורו",
     "start": "2026-09-10T00:00:00.000",
@@ -36556,6 +36229,1429 @@
         "item_code": "5060809358202",
         "discounted_price": 25.0,
         "discount_rate": 37.0
+      }
+    ]
+  },
+  "370298": {
+    "description": "כרוב לבן 2.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "681",
+        "discounted_price": 2.9,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370300": {
+    "description": "סלק 3.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "715",
+        "discounted_price": 3.9,
+        "discount_rate": -34.0
+      }
+    ]
+  },
+  "370303": {
+    "description": "תפו\"א קטן לאפייה 3.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "311",
+        "discounted_price": 3.9,
+        "discount_rate": 20.0
+      },
+      {
+        "item_code": "7290000000503",
+        "discounted_price": 3.9,
+        "discount_rate": 20.0
+      }
+    ]
+  },
+  "370304": {
+    "description": "כרוב אדום 3.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "682",
+        "discounted_price": 3.9,
+        "discount_rate": -34.0
+      }
+    ]
+  },
+  "370305": {
+    "description": "דלורית 3.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "625",
+        "discounted_price": 3.9,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370306": {
+    "description": "בצל אדום 3.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "619",
+        "discounted_price": 3.9,
+        "discount_rate": 20.0
+      }
+    ]
+  },
+  "370307": {
+    "description": "בטטה 5.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "622",
+        "discounted_price": 5.9,
+        "discount_rate": 14.0
+      }
+    ]
+  },
+  "370308": {
+    "description": "לימון 5.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "691",
+        "discounted_price": 5.9,
+        "discount_rate": 14.0
+      }
+    ]
+  },
+  "370309": {
+    "description": "פלפל ירוק 6.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "735",
+        "discounted_price": 6.9,
+        "discount_rate": -17.0
+      }
+    ]
+  },
+  "370310": {
+    "description": "אפרסק 8.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "607",
+        "discounted_price": 8.9,
+        "discount_rate": 10.0
+      }
+    ]
+  },
+  "370311": {
+    "description": "שזיף אדום 8.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "777",
+        "discounted_price": 8.9,
+        "discount_rate": 25.0
+      }
+    ]
+  },
+  "370312": {
+    "description": "אבוקדו 8.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "606",
+        "discounted_price": 8.9,
+        "discount_rate": 10.0
+      }
+    ]
+  },
+  "370313": {
+    "description": "מנגו 11.90 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "701",
+        "discounted_price": 11.9,
+        "discount_rate": -20.0
+      }
+    ]
+  },
+  "370314": {
+    "description": "סלק בוואקום 2ב10 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290016150117",
+        "discounted_price": 10.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290020423054",
+        "discounted_price": 10.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370315": {
+    "description": "עגבניות שרי ארוז 2ב14 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290015766005",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290015766012",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290015766029",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290015766036",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290015766043",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370316": {
+    "description": "סלט המושבה/עלי בייבי/חסה/לקטים2ב20 שלישי",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290008644235",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290008644945",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290103408206",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290106528949",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290106723689",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370317": {
+    "description": "צנונית 2ב8 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290010192120",
+        "discounted_price": 8.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370318": {
+    "description": "מקלות סלרי 2ב8 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290010051311",
+        "discounted_price": 8.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290010192144",
+        "discounted_price": 8.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370319": {
+    "description": "סלרי עלים/מנגולד/בצל ירוק 2ב10 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "716",
+        "discounted_price": 10.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370320": {
+    "description": "פלפל טינקרבל 2ב12 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290015855013",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370321": {
+    "description": "לבבות חסה 2ב12 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290010051373",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370323": {
+    "description": "מלפפון בייבי 2ב12 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290015855051",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370324": {
+    "description": "תבלינים 3ב12 שלישי שוק",
+    "start": "2026-09-15T00:00:00.000",
+    "end": "2026-09-15T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290010050109",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290010051021",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290010051113",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290010051120",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290010051250",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290010051687",
+        "discounted_price": 12.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370332": {
+    "description": "סימילאק גולד פלוס עד 4 יח מעל 75",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "5099864015577",
+        "discounted_price": 130.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "5099864015614",
+        "discounted_price": 130.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "5099864015638",
+        "discounted_price": 130.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "0000000000000",
+        "discounted_price": null,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370333": {
+    "description": "מנות סלמון קפוא 59.90 רשתי",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290001900086",
+        "discounted_price": 59.9,
+        "discount_rate": 25.0
+      },
+      {
+        "item_code": "7290002345282",
+        "discounted_price": 59.9,
+        "discount_rate": 25.0
+      },
+      {
+        "item_code": "7290005816598",
+        "discounted_price": 59.9,
+        "discount_rate": 25.0
+      },
+      {
+        "item_code": "7290019308904",
+        "discounted_price": 59.9,
+        "discount_rate": 25.0
+      }
+    ]
+  },
+  "370334": {
+    "description": "פילה אמנון קפוא ללא עור 14.90 רשתי",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-31T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290001286937",
+        "discounted_price": 14.9,
+        "discount_rate": 50.0
+      },
+      {
+        "item_code": "7290003893843",
+        "discounted_price": 14.9,
+        "discount_rate": 50.0
+      },
+      {
+        "item_code": "7290004768294",
+        "discounted_price": 14.9,
+        "discount_rate": 50.0
+      },
+      {
+        "item_code": "7290008611374",
+        "discounted_price": 14.9,
+        "discount_rate": 50.0
+      },
+      {
+        "item_code": "7290113621558",
+        "discounted_price": 14.9,
+        "discount_rate": 50.0
+      }
+    ]
+  },
+  "370335": {
+    "description": "פילה אמנון עם עור 12.90",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-31T23:59:00.000",
+    "items": [
+      {
+        "item_code": "469890",
+        "discounted_price": 12.9,
+        "discount_rate": 35.0
+      },
+      {
+        "item_code": "7290008469890",
+        "discounted_price": 12.9,
+        "discount_rate": 35.0
+      },
+      {
+        "item_code": "7290008611350",
+        "discounted_price": 12.9,
+        "discount_rate": 35.0
+      },
+      {
+        "item_code": "7290008835961",
+        "discounted_price": 12.9,
+        "discount_rate": 35.0
+      },
+      {
+        "item_code": "7290012982873",
+        "discounted_price": 12.9,
+        "discount_rate": 35.0
+      },
+      {
+        "item_code": "8469890",
+        "discounted_price": 12.9,
+        "discount_rate": 35.0
+      }
+    ]
+  },
+  "370339": {
+    "description": "פמפרס בייבי דריי",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "8006530264457",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8006530264464",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8006530264495",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8006530264525",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8006530264570",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8700216350310",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8700216350396",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8700216350402",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8700216350419",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8700216350433",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8700216363228",
+        "discounted_price": 52.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370341": {
+    "description": "מיקס זיתים 560 גרם",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290005113222",
+        "discounted_price": 18.0,
+        "discount_rate": 30.0
+      }
+    ]
+  },
+  "370343": {
+    "description": "ברוקולי פילד גוד 600 גרם",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-31T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290019036951",
+        "discounted_price": 11.9,
+        "discount_rate": 46.0
+      }
+    ]
+  },
+  "370345": {
+    "description": "רסק עגבניות פרי ניר 100 גרם",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290002019794",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290016087604",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370346": {
+    "description": "פורל/סלמון מעושן תנובה",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000045122",
+        "discounted_price": 17.9,
+        "discount_rate": 25.0
+      },
+      {
+        "item_code": "7290000662817",
+        "discounted_price": 17.9,
+        "discount_rate": 25.0
+      }
+    ]
+  },
+  "370349": {
+    "description": "סבון נוזלי פלמוליב",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "8693495030243",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8714789733272",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8714789733289",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8714789733296",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8718951452572",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8718951722507",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8718951722576",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006536322",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006536339",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006536346",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006943595",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006943618",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006948408",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006950852",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006955529",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8850006960561",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370351": {
+    "description": "תחבושות/מגן תחתון קוטקס",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "5029053510811",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "5029053510828",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "5029053523446",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000188553",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000188591",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000199313",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111343483",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111344824",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111344831",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111344855",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111345753",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111345777",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111347740",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111347757",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111347764",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111348280",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370353": {
+    "description": "עוגות אישיות דבש צ'וקטה 10 יח 250 גרם",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290122635737",
+        "discounted_price": 7.9,
+        "discount_rate": 28.0
+      }
+    ]
+  },
+  "370354": {
+    "description": "רביולי שטראוס",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290003989539",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290003989553",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290105968654",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290119373567",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370359": {
+    "description": "חיתולי האגיס אקסטרה קייר",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000205762",
+        "discounted_price": 90.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000205915",
+        "discounted_price": 90.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000262413",
+        "discounted_price": 90.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111344503",
+        "discounted_price": 90.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111347252",
+        "discounted_price": 90.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370360": {
+    "description": "KH7 מסיר שומנים סופר קלינר",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "8420822135001",
+        "discounted_price": 9.9,
+        "discount_rate": 48.0
+      }
+    ]
+  },
+  "370361": {
+    "description": "חיתולי האגיס רך נולד",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-09-21T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000191225",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000191645",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000263359",
+        "discounted_price": 55.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370366": {
+    "description": "נקניקיות עוף 1.5 ק\"ג",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290013906694",
+        "discounted_price": 24.9,
+        "discount_rate": 35.0
+      }
+    ]
+  },
+  "370370": {
+    "description": "בצק פילאס תורכי מעדנות",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290005559990",
+        "discounted_price": 19.9,
+        "discount_rate": 17.0
+      }
+    ]
+  },
+  "370373": {
+    "description": "יוגורט טבעי 200 גרם תנובה",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000057132",
+        "discounted_price": 10.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000057149",
+        "discounted_price": 10.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370376": {
+    "description": "סויה ביו אלטרנטיב",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290110329792",
+        "discounted_price": 15.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290110329808",
+        "discounted_price": 15.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290110329815",
+        "discounted_price": 15.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290110329846",
+        "discounted_price": 15.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290116935942",
+        "discounted_price": 15.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370379": {
+    "description": "טופו 300 גרם תנובה",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290110322014",
+        "discounted_price": 18.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290110322021",
+        "discounted_price": 18.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290110322038",
+        "discounted_price": 18.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370384": {
+    "description": "קטשופ היינץ 700 גרם",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "8715700419732",
+        "discounted_price": 9.9,
+        "discount_rate": 34.0
+      }
+    ]
+  },
+  "370385": {
+    "description": "פסטה ריסקוסה 500 גרם",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "8011780000922",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8011780009277",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8011780009413",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8011780009505",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370386": {
+    "description": "פתיתי פרמזן תנובה",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290004122119",
+        "discounted_price": 20.0,
+        "discount_rate": 22.0
+      }
+    ]
+  },
+  "370388": {
+    "description": "שניצל עוף ותירס מאמא עוף",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290011876494",
+        "discounted_price": 50.0,
+        "discount_rate": 37.0
+      }
+    ]
+  },
+  "370390": {
+    "description": "ברבוניה טרי 114.90 רשתי",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-09-19T23:59:00.000",
+    "items": [
+      {
+        "item_code": "501338",
+        "discounted_price": 114.9,
+        "discount_rate": 17.0
+      }
+    ]
+  },
+  "370394": {
+    "description": "בלאק לייבל עד 2 יח מעל 99",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "5000267023601",
+        "discounted_price": 99.9,
+        "discount_rate": 29.0
+      },
+      {
+        "item_code": "5000267125046",
+        "discounted_price": 99.9,
+        "discount_rate": 29.0
+      },
+      {
+        "item_code": "0000000000000",
+        "discounted_price": null,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370395": {
+    "description": "מגוון ספריי סקינגארד",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290104961489",
+        "discounted_price": 19.9,
+        "discount_rate": 53.0
+      },
+      {
+        "item_code": "7290104962745",
+        "discounted_price": 19.9,
+        "discount_rate": 50.0
+      },
+      {
+        "item_code": "7290104963971",
+        "discounted_price": 19.9,
+        "discount_rate": 53.0
+      },
+      {
+        "item_code": "7290104964008",
+        "discounted_price": 19.9,
+        "discount_rate": 50.0
+      },
+      {
+        "item_code": "7290104964022",
+        "discounted_price": 19.9,
+        "discount_rate": 53.0
+      },
+      {
+        "item_code": "7290104964176",
+        "discounted_price": 19.9,
+        "discount_rate": 53.0
+      },
+      {
+        "item_code": "7290104964718",
+        "discounted_price": 19.9,
+        "discount_rate": 53.0
+      },
+      {
+        "item_code": "7290104964732",
+        "discounted_price": 19.9,
+        "discount_rate": 53.0
+      },
+      {
+        "item_code": "7290104966224",
+        "discounted_price": 19.9,
+        "discount_rate": 60.0
+      }
+    ]
+  },
+  "370398": {
+    "description": "קלינקס לושן",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "36000516890",
+        "discounted_price": 14.9,
+        "discount_rate": 12.0
+      }
+    ]
+  },
+  "370399": {
+    "description": "ג'ל כביסה מקסימה בייבי 3 ליטר",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290013848758",
+        "discounted_price": 60.0,
+        "discount_rate": 12.0
+      }
+    ]
+  },
+  "370400": {
+    "description": "מיץ תפוזים/מיץ תפוזים וגזר פרימור",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000525969",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290018925867",
+        "discounted_price": 25.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370401": {
+    "description": "נקטר ספרינג",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290001247082",
+        "discounted_price": 9.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290001247099",
+        "discounted_price": 9.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290001247105",
+        "discounted_price": 9.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290001247112",
+        "discounted_price": 9.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290001247129",
+        "discounted_price": 9.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290001247143",
+        "discounted_price": 9.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290008757980",
+        "discounted_price": 9.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370402": {
+    "description": "סאן בנדטו שישייה",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290006229427",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370403": {
+    "description": "סימילאק גולד עד 4 יח מעל 75",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-09-20T23:59:00.000",
+    "items": [
+      {
+        "item_code": "5391523057929",
+        "discounted_price": 115.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "5391523057936",
+        "discounted_price": 115.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "5391523057943",
+        "discounted_price": 115.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "0000000000000",
+        "discounted_price": null,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370406": {
+    "description": "כפפות אלוורה סנו סושי",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290010883356",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290010883363",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290010883370",
+        "discounted_price": 14.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370414": {
+    "description": "מטליות מיקרופייבר שלישייה ניקול",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290016197488",
+        "discounted_price": 6.9,
+        "discount_rate": 30.0
+      }
+    ]
+  },
+  "370418": {
+    "description": "קולגייט סנסטיב פרו ריליף 75 מ\"ל",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7891024123492",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7891024124253",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8718951634077",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "8718951635012",
+        "discounted_price": 22.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370428": {
+    "description": "מגבוני האגיס רביעייה",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000195537",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000195773",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290111344206",
+        "discounted_price": 30.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370440": {
+    "description": "פומפדור תה ירוק",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "4009300011040",
+        "discounted_price": 34.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "4009300522935",
+        "discounted_price": 34.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "4009300522966",
+        "discounted_price": 34.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "4009300526438",
+        "discounted_price": 34.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370441": {
+    "description": "מקסימה מרכך 4 ליטר",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-03T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290000288642",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290000293073",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290005423734",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290005423918",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290011598402",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290108351507",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290108351514",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290108358407",
+        "discounted_price": 38.0,
+        "discount_rate": null
+      }
+    ]
+  },
+  "370442": {
+    "description": "טודי חטיף חלבון 50 גרם",
+    "start": "2026-09-14T00:00:00.000",
+    "end": "2026-10-31T23:59:00.000",
+    "items": [
+      {
+        "item_code": "7290121167024",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290121167062",
+        "discounted_price": 20.0,
+        "discount_rate": null
+      },
+      {
+        "item_code": "7290121167116",
+        "discounted_price": 20.0,
+        "discount_rate": null
       }
     ]
   }
